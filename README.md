@@ -22,12 +22,6 @@
 > _"And I will ask the Father, and he will give you another Advocate, who will never leave you."_  
 ---
 
-## 📊 GitHub Stats  
-![Keletso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeletsoNtseno&show_icons=true&theme=tokyonight&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeletsoNtseno&layout=compact&theme=tokyonight)
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
